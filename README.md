@@ -1,2 +1,2 @@
-# CV
-CV
+# Simple dapp test app 
+
